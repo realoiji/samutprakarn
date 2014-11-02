@@ -1,0 +1,3 @@
+# Module sa
+# RPC service class, partial path of RPC policy file
+com.samutprakarn.client.GreetingService, 94C6933F05A20FC9F5EA001A05C964EF.gwt.rpc

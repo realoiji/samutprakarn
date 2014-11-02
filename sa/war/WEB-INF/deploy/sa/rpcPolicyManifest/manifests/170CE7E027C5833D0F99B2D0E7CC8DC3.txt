@@ -1,0 +1,2 @@
+serviceClass: com.samutprakarn.client.GreetingService
+path: 94C6933F05A20FC9F5EA001A05C964EF.gwt.rpc
